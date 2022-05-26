@@ -1,2 +1,2 @@
 # tweetalk
-Uma aplicação clone do Twitter para fins acadêmicos 
+Uma aplicação clone do Twitter para fins acadêmicos
